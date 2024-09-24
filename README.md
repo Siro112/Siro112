@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Siro112
+- 👀 I’m interested mostly at just learning to code
+- 🌱 I’m currently learning Cs50 using edX
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like cats :3 
